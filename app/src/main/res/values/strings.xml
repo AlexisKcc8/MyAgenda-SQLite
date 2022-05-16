@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Agenda</string>
+    <string name="hint_name">Ingresa tu nombre</string>
+    <string name="hint_date">dd/mm/yyyy</string>
+    <string name="hint_hour">hh:mm</string>
+    <string name="hint_last">Apellido</string>
+    <string name="hint_phone">Telefono</string>
+    <string name="title_mainActivity">My Agenda</string>
+
+    <string name="txt_btnAdd">Add</string>
+    <string name="txt_btnUpdate">Update</string>
+    <string name="txt_btnDelete">Delete</string>
+    <string name="hint_id">tu id</string>
+
+</resources>
